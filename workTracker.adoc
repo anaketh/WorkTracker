@@ -1,4 +1,7 @@
 == 2026-09-22
 
 * Raised a request to CyberArk team to check on the ECAR DB connection issue.
-* ntng
+* Made a Excel for status of all branches in all get repos we have in ecar and welcome
+* Connected with naveen to understand story on CI/CD jenkins sanity check for git public -> private. 
+  Felt that i need to know GITHUB APP a little
+* Executed 2 unity requests in ASB1 and asked BAs to check
