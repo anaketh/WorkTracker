@@ -1,0 +1,5 @@
+== 2026-09-22
+
+* Raised a request to CyberArk team to check on the ECAR DB connection issue.
+* that ist
+* ntng
