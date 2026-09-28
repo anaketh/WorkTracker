@@ -14,3 +14,14 @@ Domain -> base clients -> clients -> consult -> click f1 key -> double click any
  
 ** SIR:
 fund -> consult -> fund -> search -> click any row -> data should be present.
+
+** Jeflin notes:
+*** Early morning checks
+**** Autosys job checks: search BDTT and polling jobs and mark all of them as successful.
+**** For non-success jobs, terminate them first, then mark them as successful.
+
+*** 9:30 AM
+**** Check polling jobs in Autosys dev (Ho3, Lo3, To3) and prod.
+**** Polling jobs should be in running (start jobs) or success (stop jobs) status, and the start date should be today's date.
+**** For failing polling jobs, mark them as successful.
+**** If polling jobs are already successful, force-start them.
