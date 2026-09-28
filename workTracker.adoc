@@ -5,10 +5,12 @@
 * Connected with naveen to understand story on CI/CD jenkins sanity check for git public -> private. 
   Felt that i need to know GITHUB APP a little
 * Executed 2 unity requests in ASB1 and asked BAs to check
+
 == 2026-09-28
-** AUTOSYS - Morning check
-* BDR:
+
+* AUTOSYS - Morning check
+** BDR:
 Domain -> base clients -> clients -> consult -> click f1 key -> double click any row.
  
-* SIR:
+** SIR:
 fund -> consult -> fund -> search -> click any row -> data should be present.
